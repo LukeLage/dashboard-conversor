@@ -17,16 +17,22 @@ Os dados usados nesse dashboard incluem:
 ## Instruções de Uso
 1. Clone esse repositório em seu computador local
 2. Instale as bibliotecas necessárias para a execução desse código digitando a seguinte linha em seu terminal:
-    ``` pip install streamlit pandas matplotlib ```
-3. Execute o código digitando a seguinte linha em seu terminal:
-    ``` streamlit run dashboard-conversor.py ```
-4. Clique no link que seu navegador oferecerá
-5. Para ter certeza que os dados estão atualizados, clique no botão de atualizar taxas e aperte F5
+    ```
+   pip install streamlit pandas matplotlib
+    ```
+4. Execute o código digitando a seguinte linha em seu terminal:
+    ```
+    streamlit run dashboard-conversor.py
+   ```
+6. Clique no link que seu navegador oferecerá
+7. Para ter certeza que os dados estão atualizados, clique no botão de atualizar taxas e aperte F5
 
 ## Tecnologias Utilizadas
 
 Linguagem de programação: 
-``` Python  3.13.2```
+``` 
+Python  3.13.2
+```
 
 Frameworks e Bibliotecas
 ```
